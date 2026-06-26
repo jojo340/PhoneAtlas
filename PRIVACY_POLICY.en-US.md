@@ -2,13 +2,12 @@
 
 Effective Date: June 26, 2026
 
-This Privacy Policy explains how “Phone Atlas” (the “App”) handles information. Before publishing, replace all `TODO` placeholders with your real developer information and contact details.
+This Privacy Policy explains how “Phone Atlas” (the “App”) handles information. 
 
 ## 1. Developer Information
 
-- Developer: TODO: Developer Name
-- Contact email: TODO: support@example.com
-- Support page: TODO: https://your-domain.example/support
+- Developer: Yone Liu
+- Contact email: yangnote@qq.com
 
 ## 2. Core App Features
 
