@@ -4,8 +4,8 @@
 
 如果你遇到问题、发现机型参数错误，或希望补充新的手机机型，可以通过以下方式联系开发者：
 
-- 邮箱：TODO: support@example.com
-- GitHub Issues：TODO: https://github.com/jojo340/PhoneAtlas/issues
+- 邮箱：yangnote@qq.com
+- GitHub Issues: https://github.com/jojo340/PhoneAtlas/issues
 
 ## 常见问题
 
