@@ -4,8 +4,8 @@ Thank you for using Phone Atlas.
 
 If you run into an issue, find incorrect phone specifications, or want to suggest new models for the catalog, contact the developer:
 
-- Email: TODO: support@example.com
-- GitHub Issues: TODO: https://github.com/jojo340/PhoneAtlas/issues
+- Email: yangnote@qq.com
+- GitHub Issues: https://github.com/jojo340/PhoneAtlas/issues
 
 ## FAQ
 
