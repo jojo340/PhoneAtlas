@@ -6,9 +6,8 @@
 
 ## 1. 开发者信息
 
-- 开发者：TODO: Developer Name
-- 联系邮箱：TODO: support@example.com
-- 支持页面：TODO: https://your-domain.example/support
+- 开发者：Yone Liu
+- 联系邮箱：yangnote@qq.com
 
 ## 2. 本 App 的核心功能
 
