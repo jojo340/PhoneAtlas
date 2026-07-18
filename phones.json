@@ -917,7 +917,7 @@
       "name" : "iPhone 17e",
       "network" : "5G",
       "operatingSystem" : "iOS 26",
-      "previewImageURL" : "database/images/apple-iphone-17-e-2025.jpg",
+      "previewImageURL" : "https://github.com/jojo340/PhoneAtlas/blob/main/images/apple-iphone-17-e-2025.jpg",
       "rearCamera" : "48 MP 融合式相机",
       "refreshRate" : "60 Hz",
       "screenForm" : "原深感全面屏",
